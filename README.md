@@ -95,7 +95,7 @@ Finally, these last commands perform the clustering analyses and save the result
 
 The last command will take time and memory to execute, and will produce a large ammount of results in the 'Results' folder (it will give all the results for all numbers of clusters spanning 2-14). The names of the result files are designed to make it easy to classify these results in folders afterwards. 
 
-
+##### Apart from the different plots, this algorithm produces a file named 'cluster_information.csv' within the 'Results' folder, in which, for each network, we provide the label of its cluster for each classification. Each classification is performed two times. For instance, the value in row 116 and column 5means_0 corresponds to the cluster to which network 116 belongs to in the first classification in 5 clusters (the second classification would be labelled 5means_1). So, in this folder we have the cluster each network belongs to in each classification, for further analyses. 
 
 
 
