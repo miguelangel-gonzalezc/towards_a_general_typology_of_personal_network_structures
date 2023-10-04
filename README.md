@@ -76,7 +76,6 @@ Next two commands help us do some Exploratory Data Analysis. They create the fig
 
 Next command will check the two main assumptions necessary to perform Factor Analysis: KMO and Barlett's Sphericity Test.
 
-    # We check the Factor Analysis assumptions
     STclass.check_factor_analysis_assumptions()
 
 Next command will perform the non parametric Parallel Analysis to determine the number of factors/components to retain.
