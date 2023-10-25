@@ -1,5 +1,5 @@
 # Towards a General Typology of Personal Network Structures
-## Miguel A. González-Casado, José Luis Molina and Angel Sánchez
+<!--## Miguel A. González-Casado, José Luis Molina and Angel Sánchez-->
 
 ### SUMMARY
 
