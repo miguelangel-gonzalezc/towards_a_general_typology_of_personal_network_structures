@@ -3,10 +3,10 @@
 
 ### SUMMARY
 
-This is the official repository that includes both the clean data and the Python class required to reproduce the results presented in the paper with the DOI: [ADD]
+This is the official repository that includes both the clean data and the Python class required to reproduce the results presented in the preprint with the DOI: https://doi.org/10.31235/osf.io/23efd
 
-### HOW TO CITE THIS WORK:
-[ADD]
+<!--### HOW TO CITE THIS WORK:
+[ADD]-->
 
 ### DESCRIPTION OF THE DATA FILES
 
